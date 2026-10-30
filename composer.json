@@ -1,0 +1,6 @@
+{
+    "require": {
+        "spatie/global-ray": "^1.2",
+        "laravel/installer": "^5.32"
+    }
+}
